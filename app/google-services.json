@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741004242402",
+    "firebase_url": "https://monross-fc9e6-default-rtdb.firebaseio.com",
+    "project_id": "monross-fc9e6",
+    "storage_bucket": "monross-fc9e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741004242402:android:d5a361d481f1b24d7e5dbb",
+        "android_client_info": {
+          "package_name": "com.example.monross"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741004242402-ur13t14a1s9uto1c2iafl9ru5aqv7f4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monross",
+            "certificate_hash": "0f254aa2b4909e54689ed8d1c2f62f1dfb81e548"
+          }
+        },
+        {
+          "client_id": "741004242402-25vs67kth768c8oiinq3b126jkq896rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNEhAstisHpCvKJELKCTj23_vgwX7DJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741004242402-25vs67kth768c8oiinq3b126jkq896rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
